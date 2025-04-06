@@ -33,7 +33,7 @@ You can access the project here: https://mera-time.vercel.app/
 Or run on your machine:
 
 ``` 
-
+git clone https://github.com/abhijitraut3112/Apna-Samay.git
 cd APNA-TIME
 npm install
 npm start
